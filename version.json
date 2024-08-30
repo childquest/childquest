@@ -1,4 +1,13 @@
 {
-  "currentVersion": "3.1.6"
-  "appName": "ChildQuest"
+  "latestVersion": "3.1.6",
+  "applicationId": "com.childquest.android.apps.childquest",
+  "build": "2024-08-29",
+  "mandatory": true,
+  "releaseNote": "",
+  "changes": [
+    {
+      "feature": "",
+      "description": ""
+    }
+  ]
 }
